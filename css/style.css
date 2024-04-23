@@ -197,3 +197,17 @@ section .title{
     border-radius: 0;
     cursor: pointer;
 }
+
+footer{
+    padding: 1rem;
+    text-align: center;
+    color: #0f59a9;
+    font-weight: 500;
+}
+
+.footer__text{
+    color: #333;
+    font-weight: normal;
+    font-size: 14px;
+    padding: .5rem;
+}
