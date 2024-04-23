@@ -16,5 +16,6 @@ Esta é uma landing page para uma confeteria desenvolvido com _HTML_, _CSS_ , co
 - [x] Flexbox
 - [x] Position
 - [x] HTML Forms
+- [x] Gradients
 - [x] Transições CSS
 - [x] HTML Semântico
