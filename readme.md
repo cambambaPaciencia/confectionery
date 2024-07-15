@@ -1,21 +1,16 @@
-<h1 align="center">
-    Confeteria
-</h1>
+# Confeitaria
 
-## 💻 Projeto
+Esta é uma landing page para uma confeitaria, desenvolvida com _HTML_ e _CSS_, destacando-se pelo seu menu lateral intuitivo e atraente. O objetivo deste projeto é criar uma presença online elegante e funcional para a confeitaria, proporcionando aos visitantes uma experiência de navegação agradável e informativa. Porém não é responsivo, feito apenas para computadores.
 
-Esta é uma landing page para uma confeteria desenvolvido com _HTML_, _CSS_ , com foco total no menu lateral.
+## Tecnologias
+- **HTML5**
+- **CSS3**
 
-## 🚀 Tecnologias
-
-- HTML 5
-- CSS 3
-
-## 📔 Conhecimentos abordados
+## Conhecimentos abordados
 
 - [x] Flexbox
 - [x] Position
 - [x] HTML Forms
 - [x] Gradients
-- [x] Transições CSS
-- [x] HTML Semântico
+- [x] Transition
+- [x] Semantic HTML
